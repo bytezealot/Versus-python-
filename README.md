@@ -1,1 +1,1 @@
-# Versus-python-
+# Versus is a digital "Card Game". Client-Side connects to Server-Side... Each "cards" contains 2 numbers (1 to 9). The first number is the probability to win, and the second is the points that winning gives to the player. Try it out, and Enjoy! :)
